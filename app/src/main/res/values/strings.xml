@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BinlistTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="find">Поиск</string>
+    <string name="bin_card">BIN банковской карты</string>
+    <string name="coordinate">Координаты:</string>
+    <string name="url">Сайт:</string>
+    <string name="phone">Телефон:</string>
+    <string name="type_card">Тип карты:</string>
+    <string name="city">Страна:</string>
+    <string name="arhive">Архив запроов</string>
+    <string name="error">Ошибка запроса</string>
+    <string name="no_card">Карты не найдено</string>
+    <string name="back">Вернуться на главную</string>
+</resources>
